@@ -59,7 +59,7 @@ export default function Home() {
   const h1 = 66
 
   const w2 = 86
-  const h2 = 50
+  const h2 = 50 
 
   const fonts = [
     "Dancing Script",
